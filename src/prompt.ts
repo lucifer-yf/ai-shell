@@ -267,5 +267,3 @@ export const parseAssert = (name: string, condition: any, message: string) => {
     );
   }
 };
-
-throw 'nothing todo';
