@@ -268,4 +268,4 @@ export const parseAssert = (name: string, condition: any, message: string) => {
   }
 };
 
-throw 1;
+throw 'nothing todo';
