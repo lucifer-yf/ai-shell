@@ -4,7 +4,7 @@
   "version": "1.0.9",
   "type": "module",
   "dependencies": {
-    "@clack/core": "latest",
+    "@clack/core": "0.4.1",
     "@clack/prompts": "latest",
     "@dqbd/tiktoken": "^1.0.2",
     "@nexssp/os": "^2.0.35",
